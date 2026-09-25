@@ -1,11 +1,11 @@
 variable "resource_group_name" {
-    default = "example-resources"
+  default = "example-resources"
 }
 
 variable "location" {
-    default = "East US"
+  default = "East US"
 }
 
 variable "storage_account_name" {
-    default = "storageacc11"
+  default = "storageacc11"
 }
